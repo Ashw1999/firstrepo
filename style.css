@@ -121,10 +121,4 @@ body{
      color: rgb(73, 168, 121);
 }
 
-@media (max-width: 360px){
-    .wrapper{
-        width: 100%;
-        height: 100vh;
-    }
-}
     
